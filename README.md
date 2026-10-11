@@ -7,6 +7,16 @@
 
 最新版在 [Releases](https://github.com/69AAs/ra3-trainer/releases/latest) 页面。
 
+## 界面
+
+| 启动页 | 游戏内面板 |
+| --- | --- |
+| ![启动页](screenshots/start.png) | ![游戏内面板](screenshots/panel.png) |
+
+| 功能开关（含键位） | 增援单位（按 mod / 阵营分类） |
+| --- | --- |
+| ![功能](screenshots/features.png) | ![增援单位](screenshots/reinforcement.png) |
+
 ## 怎么用
 
 1. 下载 `RA3Trainer-v1.0.0.zip`，解压，双击 **红警3修改器.exe**（单文件，免安装，不用装任何运行库）
